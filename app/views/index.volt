@@ -5,7 +5,7 @@
           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
           <!-- <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script> -->
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-          <title>Langs</title>
+          <title>Langs Test</title>
 
           <!-- {% if session.get('lang') == null %}
             <script type="text/javascript">
