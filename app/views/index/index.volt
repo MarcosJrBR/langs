@@ -9,6 +9,8 @@
     Vinda do Translate: {{ t._('hi') }}<br/>
     Já vou ({{ t._('bye') }})
     <hr>
-    <h3>Session Var</h3>
+    <h3>Session Var 2</h3>
     <strong>{{ session }}</strong>
+    <hr>
+    Alterei para testes no GIT mas deve voltar(editado)
 {% endblock %}
