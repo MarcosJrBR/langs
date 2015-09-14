@@ -9,6 +9,6 @@
     Vinda do Translate: {{ t._('hi') }}<br/>
     Já vou ({{ t._('bye') }})
     <hr>
-    <h3>Session</h3>
+    <h3>Session Var</h3>
     <strong>{{ session }}</strong>
 {% endblock %}
