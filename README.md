@@ -1,0 +1,2 @@
+# langs
+Test with internationalization
